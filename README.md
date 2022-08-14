@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucca 👋
 
 - 🔭 Hoje trabalho com Front-End
-- 🌱 Estou aprendendo JavaScript
+- 🌱 Estou aprendendo JavaScript e C#, trabalhando em um projeto pessoal para desenvolver um jogo.
 - 💬 Entre em contato via: luccadutra.web@gmail.com
 
 <div align="center">
